@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyProductivityApp/1.0.0": {
+        "runtime": {
+          "MyProductivityApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyProductivityApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
