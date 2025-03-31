@@ -21,3 +21,6 @@ C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\refin
 C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\MyProductivityApp.pdb
 C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\MyProductivityApp.genruntimeconfig.cache
 C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\ref\MyProductivityApp.dll
+C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\View\CalendarView.g.cs
+C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\View\CalendarView.baml
+C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\MyProductivityApp.sourcelink.json

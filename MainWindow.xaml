@@ -14,7 +14,7 @@
                 <view:TodoView />
             </TabItem>
             <TabItem Header="📆 캘린더">
-                <TextBlock Text="캘린더 기능 예정" Margin="10"/>
+                <view:CalendarView />
             </TabItem>
             <TabItem Header="🧮 계산기">
                 <TextBlock Text="계산기 기능 예정" Margin="10"/>

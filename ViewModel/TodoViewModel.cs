@@ -12,6 +12,7 @@ namespace MyProductivityApp.ViewModel
     {
 
         private ObservableCollection<TodoItem> todos;
+
         public ObservableCollection<TodoItem> Todos
         {
             get => todos;
