@@ -24,3 +24,5 @@ C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\ref\M
 C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\View\CalendarView.g.cs
 C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\View\CalendarView.baml
 C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\MyProductivityApp.sourcelink.json
+C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\View\CalculatorView.baml
+C:\Users\zaldo\Documents\GitHub\MyProductivityApp\obj\Debug\net8.0-windows\View\CalculatorView.g.cs

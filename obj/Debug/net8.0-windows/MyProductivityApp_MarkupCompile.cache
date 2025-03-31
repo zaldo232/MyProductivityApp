@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\zaldo\Documents\GitHub\MyProductivityApp\App.xaml
-3-1231495969
+4-325227574
 
-13-2060291114
+151673436170
 198-344842731
-MainWindow.xaml;View\CalendarView.xaml;View\TodoView.xaml;
+MainWindow.xaml;View\CalculatorView.xaml;View\CalendarView.xaml;View\TodoView.xaml;
 
 False
 
